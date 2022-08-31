@@ -327,7 +327,7 @@ $$
 
 ### 分层思想举例
 
-<img src="chapter-1.assets/image-20220831163238492.png" alt="image-20220831163238492" style="zoom:67%;" />
+<img src="chapter-1.assets/image-20220831163238492.png" alt="image-20220831163238492" style="zoom: 60%;" />
 
 ### 专用术语
 
@@ -336,7 +336,7 @@ $$
 ##### 对等实体
 指通信双方相同层次中的实体。
 
-<img src="chapter-1.assets/image-20220831163430665.png" alt="image-20220831163430665" style="zoom:67%;" />
+<img src="chapter-1.assets/image-20220831163430665.png" alt="image-20220831163430665" style="zoom:60%;" />
 
 #### 协议
 是控制两个对等实体在**“水平方向”** 进行“**逻辑通信**”的**规则**的集合。
@@ -361,4 +361,4 @@ $$
 - 服务数据单元（Service Data Unit，SDU）
   - 同一系统内**层与层**之间交换的数据包
 
-<img src="chapter-1.assets/image-20220831164154585.png" alt="image-20220831164154585" style="zoom:67%;" />
+<img src="chapter-1.assets/image-20220831164154585.png" alt="image-20220831164154585" style="zoom: 60%;" />
