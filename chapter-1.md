@@ -74,7 +74,7 @@
 
 ### 因特网发展的三个阶段
 
-![image-20220831110016421](chapter-1.assets/image-20220831110016421.png)
+<img src="chapter-1.assets/image-20220831110016421.png" alt="image-20220831110016421" style="zoom: 50%;" />
 
 * 第一个分组交换网：ARPANET，1969
 * 因特网诞生时间：1983年
@@ -83,7 +83,7 @@
 
 ### 因特网已发展成为**基于ISP的多层次结构的互连网络**
 
-![image-20220831140456216](chapter-1.assets/image-20220831140456216.png)
+<img src="chapter-1.assets/image-20220831140456216.png" alt="image-20220831140456216" style="zoom: 50%;" />
 
 ### 因特网的**标准化**工作
 
@@ -92,24 +92,24 @@
 
 ### 制定因特网正式标准的四个阶段
 
-![image-20220831141120113](chapter-1.assets/image-20220831141120113.png)
+<img src="chapter-1.assets/image-20220831141120113.png" alt="image-20220831141120113" style="zoom: 50%;" />
 
 ### 因特网的管理机构
 
-![image-20220831140940829](chapter-1.assets/image-20220831140940829.png)
+<img src="chapter-1.assets/image-20220831140940829.png" alt="image-20220831140940829" style="zoom: 50%;" />
 
 ### 因特网的组成：边缘部分 + 核心部分
 
 -   边缘：主机，用户直接使用，用于通信和资源共享
 -   核心：大量网络 + 路由器，为边缘部分提供服务
 
-![image-20220831142317562](chapter-1.assets/image-20220831142317562.png)
+<img src="chapter-1.assets/image-20220831142317562.png" alt="image-20220831142317562" style="zoom: 33%;" />
 
 ## 电路交换、分组交换和报文交换 
 
 ### 电路交换
 
-![image-20220831145214148](chapter-1.assets/image-20220831145214148.png)
+<img src="chapter-1.assets/image-20220831145214148.png" alt="image-20220831145214148" style="zoom:50%;" />
 
 -   方式：电话交换机接通电话线
 -   step
@@ -120,7 +120,7 @@
 
 ### 分组交换
 
-![image-20220831145326572](chapter-1.assets/image-20220831145326572.png)
+<img src="chapter-1.assets/image-20220831145326572.png" alt="image-20220831145326572" style="zoom: 67%;" />
 
 ```mermaid
 graph LR
@@ -151,7 +151,7 @@ graph LR
 
 ### 三种交换方式的对比
 
-![image-20220831151342910](chapter-1.assets/image-20220831151342910.png)
+<img src="chapter-1.assets/image-20220831151342910.png" alt="image-20220831151342910" style="zoom: 50%;" />
 
 -   报文交换和分组交换都不需要建立连接，传送突发数据时可以**提高通信线路利用率**
 
@@ -203,11 +203,11 @@ graph LR
 
 数据的传输速率，也称数据率/比特率
 
-![image-20220831153446315](chapter-1.assets/image-20220831153446315.png)
+<img src="chapter-1.assets/image-20220831153446315.png" alt="image-20220831153446315" style="zoom: 50%;" />
 
 ### 带宽
 
-![image-20220831153554547](chapter-1.assets/image-20220831153554547.png)
+<img src="chapter-1.assets/image-20220831153554547.png" alt="image-20220831153554547" style="zoom: 50%;" />
 
 **数据传送速率 =  min [主机接口速率，线路带宽，交换机或路由器的接口速率]** 
 
@@ -217,7 +217,7 @@ graph LR
 - 常被用于对实际网络的测量，以便获知到底有多少数据量通过了网络。
 - 受网络带宽的限制
 
-![image-20220831153932606](chapter-1.assets/image-20220831153932606.png)
+<img src="chapter-1.assets/image-20220831153932606.png" alt="image-20220831153932606" style="zoom:50%;" />
 
 ### 时延
 指数据从网络的一端传送到另一端所耗费的时间，也称为延迟或迟延。
@@ -251,13 +251,13 @@ $$
 
 ​		不方便计算、不考虑
 
-![image-20220831160530449](chapter-1.assets/image-20220831160530449.png)
+<img src="chapter-1.assets/image-20220831160530449.png" alt="image-20220831160530449" style="zoom:50%;" />
 
 ### 时延带宽积
 
 传播时延和带宽的乘积，也称为以比特为单位的链路长度
 
-![image-20220831160801971](chapter-1.assets/image-20220831160801971.png)
+<img src="chapter-1.assets/image-20220831160801971.png" alt="image-20220831160801971" style="zoom:50%;" />
 
 ### 往返时间（RTT）
 指从发送端发送数据分组开始，到发送端收到接收端发 来的相应确认分组为止，总共耗费的时间。
@@ -270,9 +270,9 @@ $$
 指网络中所有链路的 链路利用率的加权平均。
 - 在网络通信量不断增大时，分组在交换节点 （路由器或交换机）中的排队时延会随之增大，因此网络引起的时延就会增大。
 
-![image-20220831161518113](chapter-1.assets/image-20220831161518113.png)
+<img src="chapter-1.assets/image-20220831161518113.png" alt="image-20220831161518113" style="zoom:50%;" />
 
-![image-20220831161541006](chapter-1.assets/image-20220831161541006.png)
+<img src="chapter-1.assets/image-20220831161541006.png" alt="image-20220831161541006" style="zoom:46%;" />
 
 ### 丢包率
 是指在一定的时间范围内，传输过程中**丢失的分组数量与总分组数量的比率**。
@@ -286,13 +286,13 @@ $$
 
 ​		OSI参考模型、TCP/IP参考模型、原理参考模型
 
-![image-20220831162127872](chapter-1.assets/image-20220831162127872.png)
+<img src="chapter-1.assets/image-20220831162127872.png" alt="image-20220831162127872" style="zoom:67%;" />
 
 ### 分层的必要性
 - 计算机网络是个非常复杂的系统
 - “分层”可将庞大复杂的问题转化为若干较小的局部问题
 
-![image-20220831163109413](chapter-1.assets/image-20220831163109413.png)
+<img src="chapter-1.assets/image-20220831163109413.png" alt="image-20220831163109413" style="zoom:75%;" />
 
 #### 物理层
 - 解决使用何种信号来表示比特0和1的问题
@@ -327,7 +327,7 @@ $$
 
 ### 分层思想举例
 
-![image-20220831163238492](chapter-1.assets/image-20220831163238492.png)
+<img src="chapter-1.assets/image-20220831163238492.png" alt="image-20220831163238492" style="zoom:67%;" />
 
 ### 专用术语
 
@@ -336,7 +336,7 @@ $$
 ##### 对等实体
 指通信双方相同层次中的实体。
 
-![image-20220831163430665](chapter-1.assets/image-20220831163430665.png)
+<img src="chapter-1.assets/image-20220831163430665.png" alt="image-20220831163430665" style="zoom:67%;" />
 
 #### 协议
 是控制两个对等实体在**“水平方向”** 进行“**逻辑通信**”的**规则**的集合。
@@ -361,5 +361,4 @@ $$
 - 服务数据单元（Service Data Unit，SDU）
   - 同一系统内**层与层**之间交换的数据包
 
-
-![image-20220831164154585](chapter-1.assets/image-20220831164154585.png)
+<img src="chapter-1.assets/image-20220831164154585.png" alt="image-20220831164154585" style="zoom:67%;" />
