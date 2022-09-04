@@ -463,7 +463,7 @@ $$
 
 #### 6.2.4. 【4】
 
-<img src="chapter-1.assets/image-20220904170247653.png" alt="image-20220904170247653" style="zoom: 39%;" />
+<img src="chapter-1.assets/image-20220904170247653.png" alt="image-20220904170247653" style="zoom: 35%;" />
 
 #### 6.2.5. 【5】【2013 35】
 
