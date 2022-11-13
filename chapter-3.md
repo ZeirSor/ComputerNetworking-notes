@@ -1,4 +1,4 @@
-# chapter 3 data link layer
+# Chapter 3 data link layer
 <!-- TOC -->
 
 - [1. 数据链路层概述](#1-数据链路层概述)
@@ -319,7 +319,6 @@
 #### 2.6.4. 选择重传协议（Selective Repeat，SR）
 
 <img src="chapter-3.assets/image-20221006002250184.png" alt="image-20221006002250184" style="zoom:45%;" />
-
 
 ## 3. 点对点协议
 

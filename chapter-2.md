@@ -1,4 +1,4 @@
-# chapter 2 Physical layers
+# Chapter 2 Physical layer
 <!-- TOC -->
 
 - [1. 物理层概述](#1-物理层概述)
