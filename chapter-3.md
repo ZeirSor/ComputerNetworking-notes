@@ -720,7 +720,8 @@
 - 当以太网交换机上电启动后，若之前未对其各接口进行过VLAN的相关设置，则各接口的接口类型默认为Access，并且各接口的缺省VLAN ID为1，即各接口默认属于VLAN1。
 	- 对于思科交换机，接口的缺省VLAN ID称为本征VLAN（Native VLAN）。
 	- 对于华为交换机，接口的缺省VLAN ID称为端口VLAN ID（Port VLAN ID），简记为PVID。
--  交换机的每个接口有且仅有一个PVID
+- 交换机的每个接口有且仅有一个PVID
+
 <img src="chapter-3.assets/image-20221025130108609.png" alt="image-20221025130108609" style="zoom: 50%;" />
 
 <img src="chapter-3.assets/image-20221025130138186.png" alt="image-20221025130138186" style="zoom: 50%;" />
