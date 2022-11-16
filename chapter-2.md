@@ -94,19 +94,8 @@
 - 传输媒体是计算机网络设备之间的物理通路，也称为传输介质或传输媒介
 - 传输媒体并**不包含在计算机网络体系结构中**
 
-```mermaid
-graph LR
-传输媒体 --- 导向型传输媒体/固体媒体
-导向型传输媒体/固体媒体 --- 同轴电缆
-导向型传输媒体/固体媒体 --- 双绞线 
-导向型传输媒体/固体媒体 --- 光纤
-传输媒体 --- 非导向型传输媒体/自由空间
-非导向型传输媒体/自由空间 --- 无线电波
-非导向型传输媒体/自由空间 --- 微波
-非导向型传输媒体/自由空间 --- 红外线
-非导向型传输媒体/自由空间 --- 大气激光
-非导向型传输媒体/自由空间 --- 可见光
-```
+<img src="chapter-2.assets/image-20221116145301974.png" alt="image-20221116145301974" style="zoom:45%;" />
+
 ### 2.2. 导向型传输媒体
 #### 2.2.1. 同轴电缆
 - 价格较贵且布线不够灵活和方便
@@ -167,7 +156,7 @@ graph LR
 
 ##### 2.3.2.1. 地面微波接力通信
 
-![image-20221003221424227](chapter-2.assets/image-20221003221424227.png)
+<img src="chapter-2.assets/image-20221003221424227.png" alt="image-20221003221424227" style="zoom: 80%;" />
 
 ##### 2.3.2.2. 卫星通信
 
@@ -394,9 +383,9 @@ $$
 A \cdot B = \frac{1}{m} \sum_{i=1}^m A_{i}B{i} = 0
 $$
 
-<img src="chapter-2.assets/image-20221004123530700.png" alt="image-20221004123530700" style="zoom:50%;" />
+<img src="chapter-2.assets/image-20221004123530700.png" alt="image-20221004123530700" style="zoom:40%;" />
 
-![image-20221004124038763](chapter-2.assets/image-20221004124038763.png)
+<img src="chapter-2.assets/image-20221004124038763.png" alt="image-20221004124038763" style="zoom:35%;" />
 
 ## 7. 题目
 
@@ -406,7 +395,7 @@ $$
 
 <img src="chapter-2.assets/image-20221004103219668.png" alt="image-20221004103219668" style="zoom:50%;" />
 
-![image-20221004120423475](chapter-2.assets/image-20221004120423475.png)
+<img src="chapter-2.assets/image-20221004120423475.png" alt="image-20221004120423475" style="zoom: 67%;" />
 
 <img src="chapter-2.assets/image-20221004120318600.png" alt="image-20221004120318600" style="zoom:50%;" />
 
