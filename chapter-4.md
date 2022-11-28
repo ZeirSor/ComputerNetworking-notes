@@ -732,7 +732,7 @@
 
 <img src="chapter-4.assets/image-20221117161619148.png" alt="image-20221117161619148" style="zoom:40%;" />
 
-#### 4.4.4. 多点接入网络中得OSPF路由器
+#### 4.4.4. 多点接入网络中的OSPF路由器
 
 <img src="chapter-4.assets/image-20221117162201438.png" alt="image-20221117162201438" style="zoom:45%;" />
 
@@ -1014,7 +1014,7 @@ C:\Users\ASUS>tracert -d www.bilibili.com
 
 #### 7.5.1. 三种报文类型
 
-- 成员报文报文
+- 成员报告报文
 - 成员查询报文
 - 离开组报文
 
@@ -1056,7 +1056,7 @@ C:\Users\ASUS>tracert -d www.bilibili.com
 <img src="chapter-4.assets/image-20221118005945755.png" alt="image-20221118005945755" style="zoom:45%;" />
 
 
-### 7.6. 多播路由选择协议（封装在）
+### 7.6. 多播路由选择协议
 
 #### 7.6.1. 多播路由选择协议
 
